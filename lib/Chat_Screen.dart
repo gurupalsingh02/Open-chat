@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_1/Account_Page.dart';
 import 'package:flutter_application_1/Log_in_Page.dart';
 import 'package:velocity_x/velocity_x.dart';
-
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 final _formkey = GlobalKey<FormState>();
